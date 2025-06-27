@@ -29,7 +29,8 @@ The SAFE App UI enables discovery and seamless remediation by providing the foll
   * **Highlights non-human identities** (machine-to-machine flows) that need to adopt OAuth, Workload Identity Federation, Key Pair, or Programmatic Access tokens for the **SERVICE** user type.
   * **Provides a clear dashboard** of authentication factors across your Snowflake environment.
   * **Lightweight and quick to deploy** using Streamlit.
-  * **Expected compute and cost estimate** details will be provided within the application or documentation.
+  * Low compute requirements: the application can run as a Streamlit in
+    Snowflake on an XS warehouse. The application does not store any state.
 
 -----
 
