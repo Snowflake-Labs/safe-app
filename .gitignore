@@ -1,0 +1,4 @@
+# .envrc should load this file if it exists. File does not need to be tracked.
+.env
+# pyproject.toml generally locks the dependencies already. No need to track this file.
+uv.lock
