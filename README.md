@@ -43,6 +43,12 @@ As Snowflake continues to enforce modern authentication requirements, SAFE helps
   * Flagging non-compliant authentication flows.
   * Facilitating discovery to plan remediation or automation updates to authentication patterns.
   * Eradicating static credentials where applicable.
+  
+  * A recent customer feedback summary.
+
+   ![image](https://github.com/user-attachments/assets/f8b0c88b-05ad-41f0-b7a1-7c035ee8ef2e)
+
+
 
 -----
 
