@@ -6,7 +6,7 @@ If you believe you have found a security vulnerability in this project, we want 
 
 Please **do not** open a GitHub issue. Instead, report it privately by emailing:
 
-📧 **safe@snowflake.com**
+ **safe@snowflake.com**
 
 Include as much information as possible, such as:
 
