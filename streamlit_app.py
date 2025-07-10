@@ -39,7 +39,7 @@ except ImportError:
 
 st.set_page_config(layout="wide")
 # Connection short-circuits in SiS, creating the session immediately
-session = st.connection(os.environ.get("SNOWFLAKE_DEFAULT_CONNECTION_NAME", "default"), type="snowflake").session()
+session = st.connection(environ.get("SNOWFLAKE_DEFAULT_CONNECTION_NAME", "default"), type="snowflake").session()
 
 
 def user_management():
