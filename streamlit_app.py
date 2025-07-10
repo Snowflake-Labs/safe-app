@@ -19,7 +19,7 @@ import itertools
 import re
 from dataclasses import asdict, dataclass
 from operator import itemgetter, methodcaller
-from os import environ
+from os
 from typing import Callable, List, Optional
 
 import pandas as pd
